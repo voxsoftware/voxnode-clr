@@ -1,0 +1,28 @@
+{
+
+	"name": "voxnode-clr",
+  	"description": "Utilice ensamblados y compile código .NET (Framework 4 , Mono) en nodejs",
+  	"version": "0.0.2",
+	"main":"main.js",
+	"license":"MIT",
+	"author": {
+	  "name": "James Suárez",
+	  "email": "xtreme.maicolxt94@gmail.com"
+	},
+	"dependencies":{
+		"vox-core-base": "^0.0.x",
+		"vox-core-async": "^0.0.x",
+		"vox-core-clr": "^0.0.x"
+	},
+	"maintainers": [
+	    {
+	      "name": "James",
+	      "email": "xtreme.maicolxt94@gmail"
+	    }
+
+	],
+	"repository": {
+	    "type": "git",
+	    "url": "https://github.com/voxsoftware/voxnode-clr"
+	}
+}
